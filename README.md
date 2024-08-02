@@ -3,7 +3,7 @@
 
  This repository is an integration of the paper [DeePoint: Visual Pointing Recognition and Direction Estimation](https://openaccess.thecvf.com/content/ICCV2023/html/Nakamura_DeePoint_Visual_Pointing_Recognition_and_Direction_Estimation_ICCV_2023_paper.html) in ICCV 2023. and the paper [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497) 
 
-![Architecture](./img/drawing.png)
+![Architecture](./img/drawing.jpg)
 
 Please note that this is masters project and may contain bugs or other issues – please use it at your own risk. If you experience major problems with it, you may contact us, but please note that we do not have the resources to deal with all issues.
 
