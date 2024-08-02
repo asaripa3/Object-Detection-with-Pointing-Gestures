@@ -16,8 +16,9 @@ Please note that this is masters project and may contain bugs or other issues â€
 }
 ```
 
-![Architecture](./img/DeePoint_architecture.jpg)
-
+![Architecture](./img/drawing.png)
+![Working](./img/drawing.png
+)
 ## Prerequisites
 We tested our code with `python3.10` with external libraries including:
 - `numpy`
@@ -83,7 +84,10 @@ python src/main.py task=train
 ```
 to train the model. Refer to `conf/model` for configurations of the model.
 
-#### Evaluation with the DP Dataset
+#### Evaluation
+
+![Results](./img/results.png)
+
 After training, you can evaluate the model by running:
 
 ```
